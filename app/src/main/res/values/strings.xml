@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="weightLabel">Your Weight</string>
+    <string name="weightBox" />
+    <string name="heightLabel">Your Height</string>
+    <string name="heightBox" />
+    <string name="button">COMPUTE BMI</string>
+    <string name="answer" />
+</resources>
